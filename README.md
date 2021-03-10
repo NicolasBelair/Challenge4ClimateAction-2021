@@ -5,5 +5,5 @@ Repo for the Challenge4ClimateAction competition
 # Team Members:
 Caleb Depatie,
 Minh Huynh,
-Mushfequr Rahman,
-Nicolas Belair,
+Mushfequr Rahman &
+Nicolas Belair.
