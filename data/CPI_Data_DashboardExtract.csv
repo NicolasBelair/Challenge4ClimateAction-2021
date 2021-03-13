@@ -1,0 +1,96 @@
+"Data last updated November, 01 2020",,,,,,,,,,,,,
+"Note: Carbon pricing initiatives are considered ""scheduled for implementation"" once they have been formally adopted through legislation and have an official, planned start date.  Carbon pricing initiatives are considered “under consideration” if the government has announced its intention to work towards the implementation of a carbon pricing initiative and this has been formally confirmed by official government sources.  Jurisdictions that only mention carbon pricing in their NDCs are not included as different interpretations of the NDC text are possible. The carbon pricing initiatives have been classified in ETSs and carbon taxes according to how they operate technically. ETS does not only refer to cap-and-trade systems, but also baseline-and-credit systems such as in British Columbia and baseline-and-offset systems such as in Australia. Carbon pricing has evolved over the years and initiatives do not necessarily follow the two categories in a strict sense. Due to the dynamic approach to continuously improve data quality, changes to the map do not only reflect new developments, but also corrections following new information from official government sources.    ",,,,,,,,,,,,,
+Name of the initiative,Type,Status,Type of juridiction covered,Jurisdiction covered,World Bank region,Year of implementation,Year of abolishment,GHG emissions covered [MtCO2e],Proportion of global GHG emissions covered,"Government income, previous year",Value [billion US$],Initiatives with overlapping GHG emissions covered,Covered GHG emissions overlapping with other initiatives [MtCO2e]
+Alberta TIER,ETS,Implemented,Subnational,Alberta,North America,2007,0,131.904,0.002434763,0.367606535,2.783371811,N/A,
+Alberta carbon tax,Carbon tax,Implemented,Subnational,Alberta,North America,2017,2020,0,0,N/A,0.942533516,N/A,
+Argentina carbon tax,Carbon tax,Implemented,National,Argentina,Latin America and the Caribbean  ,2018,0,88.1248,0.00162666,0.179263216,0.180258345,N/A,
+Australia ERF Safeguard Mechanism,ETS,Implemented,National,Australia,East Asia & Pacific ,2016,0,344.208,0.006353596,N/A,3.509703094,N/A,
+Austria undecided,Undecided,Under consideration,National,Austria,Europe and Central Asia,TBC,0,N/A,N/A,N/A,0,N/A,
+BC GGIRCA,ETS,Implemented,Subnational,British Columbia,North America,2016,0,0,0,N/A,0,BC carbon tax,0
+BC carbon tax,Carbon tax,Implemented,Subnational,British Columbia,North America,2008,0,41.65,0.0007688,1.145107884,1.374762505,BC GGIRCA,0
+Baja Calfornia carbon tax,Carbon tax,Implemented,Subnational,Baja California,Latin America and the Caribbean  ,2020,0,N/A,N/A,N/A,0,N/A,
+Beijing pilot ETS,ETS,Implemented,Subnational,Beijing,East Asia & Pacific ,2013,0,84.645,0.001562428,0,0.610211026,China national ETS,29.62575
+Brazil undecided,Undecided,Under consideration,National,Brazil,Latin America and the Caribbean  ,TBC,0,N/A,N/A,N/A,0,N/A,
+California CaT,ETS,Implemented,Subnational,California,North America,2012,0,375.1662,0.006925041,3.064749861,5.11326,N/A,
+Canada federal OBPS,ETS,Implemented,National,Canada,North America,2019,0,70.94868717,0.001309613,N/A,0,N/A,
+Canada federal fuel charge,Carbon tax,Implemented,National,Canada,North America,2019,0,155.3341992,0.002867251,1.371069743,3.010831877,N/A,
+Catalonia carbon tax,Carbon tax,Under consideration,Subnational,Catalonia,Europe and Central Asia,TBC,0,N/A,N/A,N/A,0,N/A,
+Chile ETS,ETS,Under consideration,National,Chile,Latin America and the Caribbean  ,TBC,0,N/A,N/A,N/A,0,N/A,
+Chile carbon tax,Carbon tax,Implemented,National,Chile,Latin America and the Caribbean  ,2017,0,57.61092378,0.001063417,0.1655,0.1655,N/A,
+China national ETS,ETS,Scheduled,National,China,East Asia & Pacific ,2021,0,3453.43506,0.06374556,N/A,0,"Beijing pilot ETS, Chongqing pilot ETS, Fujian pilot ETS, Guangdong pilot ETS, Hubei pilot ETS, Shanghai pilot ETS, Shenzhen pilot ETS, Tianjin pilot ETS",471.0077916
+Chongqing pilot ETS,ETS,Implemented,Subnational,Chongqing,East Asia & Pacific ,2014,0,121.55,0.002243642,0,0.530538721,China national ETS,42.5425
+Colombia ETS,ETS,Under consideration,National,Colombia,Latin America and the Caribbean  ,TBC,0,N/A,N/A,N/A,0,N/A,
+Colombia carbon tax,Carbon tax,Implemented,National,Colombia,Latin America and the Caribbean  ,2017,0,45.66552,0.000842921,0.111244537,0.116589315,N/A,
+Cote dIvoire carbon tax,Carbon tax,Under consideration,National,Cote dIvoire,Sub-Saharan Africa,TBC,0,N/A,N/A,N/A,0,N/A,
+Denmark carbon tax,Carbon tax,Implemented,National,Denmark,Europe and Central Asia,1992,0,25.27649934,0.000466569,0.519979136,0.534777077,EU ETS,0
+EU ETS,ETS,Implemented,Regional,"EU, Norway, Iceland, Liechtenstein",Europe and Central Asia,2005,0,2249.119036,0.041515578,16.01123332,33.6623297,"Finland carbon tax, Ireland carbon tax, UK carbon price floor, Norway carbon tax",179.8925015
+Estonia carbon tax,Carbon tax,Implemented,National,Estonia,Europe and Central Asia,2000,0,0.916067554,1.69E-05,0.00274603,0.00274603,EU ETS,0
+Finland carbon tax,Carbon tax,Implemented,National,Finland,Europe and Central Asia,1990,0,40.65693359,0.00075047,1.419629896,1.419629896,EU ETS,15.04306543
+France carbon tax,Carbon tax,Implemented,National,France,Europe and Central Asia,2014,0,171.6579873,0.003168565,8.9675225,8.9675225,N/A,
+Fujian pilot ETS,ETS,Implemented,Subnational,Fujian,East Asia & Pacific ,2016,0,200,0.003691719,0,0.256190096,China national ETS,70
+Germany ETS,ETS,Scheduled,National,Germany,Europe and Central Asia,2021,0,398.6204,0.007357973,N/A,0,N/A,
+Guangdong pilot ETS,ETS,Implemented,Subnational,Guangdong (except Shenzhen),East Asia & Pacific ,2013,0,366.3,0.006761383,0,1.921109004,China national ETS,128.205
+Hubei pilot ETS,ETS,Implemented,Subnational,Hubei,East Asia & Pacific ,2014,0,208.395,0.003846679,0.017277347,0.913140331,China national ETS,72.93825
+Iceland carbon tax,Carbon tax,Implemented,National,Iceland,Europe and Central Asia,2010,0,1.37491008,2.54E-05,0.041343127,0.046959019,EU ETS,0
+Indonesia ETS,ETS,Under consideration,National,Indonesia,East Asia & Pacific ,TBC,0,N/A,N/A,N/A,0,N/A,
+Ireland carbon tax,Carbon tax,Implemented,National,Ireland,Europe and Central Asia,2010,0,32.37122349,0.000597527,0.481184134,0.579608162,EU ETS,12.9484894
+Jalisco carbon tax,Carbon tax,Under consideration,Subnational,Jalisco,Latin America and the Caribbean  ,TBC,0,N/A,N/A,N/A,0,N/A,
+Japan ETS,ETS,Under consideration,National,Japan,East Asia & Pacific ,TBC,0,N/A,N/A,N/A,0,N/A,
+Japan carbon tax,Carbon tax,Implemented,National,Japan,East Asia & Pacific ,2012,0,909.1114027,0.016780919,2.438185863,2.438185863,"Tokyo CaT, Saitama ETS",20.65643307
+Kazakhstan ETS,ETS,Implemented,National,Kazakhstan,Europe and Central Asia,2013,0,182.0015,0.003359492,0,0.180217114,N/A,
+Korea ETS,ETS,Implemented,National,"Korea, Republic of",East Asia & Pacific ,2015,0,488.971,0.009025718,0.179277387,17.9672244,N/A,
+Latvia carbon tax,Carbon tax,Implemented,National,Latvia,Europe and Central Asia,2004,0,2.630981038,4.86E-05,0.009060132,0.018120264,EU ETS,0
+Liechtenstein carbon tax,Carbon tax,Implemented,National,Liechtenstein,Europe and Central Asia,2008,0,0.05209025,9.62E-07,0.004319453,0.002082039,N/A,
+Luxembourg carbon tax,Carbon tax,Under consideration,National,Luxembourg,Europe and Central Asia,TBC,0,N/A,N/A,N/A,0,N/A,
+Manitoba ETS,ETS,Under consideration,Subnational,Manitoba,North America,TBC,0,N/A,N/A,N/A,0,N/A,
+Manitoba carbon tax,Carbon tax,Under consideration,Subnational,Manitoba,North America,TBC,0,N/A,N/A,N/A,0,N/A,
+Massachusetts ETS,ETS,Implemented,Subnational,RGGI,North America,2018,0,15.18,0.000280201,0.008198567,0.06968782,RGGI,15.18
+Mexico carbon tax,Carbon tax,Implemented,National,Mexico,Latin America and the Caribbean  ,2014,0,380.6945418,0.007027086,0.210405505,0.254477281,N/A,
+Mexico pilot ETS,ETS,Implemented,National,Mexico,Latin America and the Caribbean  ,2020,0,304.06415,0.005612597,N/A,0,N/A,
+Montenegro ETS,ETS,Under consideration,National,Montenegro,Europe and Central Asia,TBC,0,N/A,N/A,N/A,0,N/A,
+Netherlands carbon tax,Carbon tax,Under consideration,National,Netherlands,Europe and Central Asia,TBC,0,N/A,N/A,N/A,0,N/A,
+New Brunswick ETS,ETS,Under consideration,Subnational,New Brunswick,North America,TBC,0,N/A,N/A,N/A,0,N/A,
+New Brunswick carbon tax,Carbon tax,Implemented,Subnational,New Brunswick,North America,2020,0,5.499,0.000101504,0,0.068052327,N/A,
+New Zealand ETS,ETS,Implemented,National,New Zealand,East Asia & Pacific ,2008,0,45.25383,0.000835322,0.25068707,0.480839591,N/A,
+Newfoundland and Labrador PSS,ETS,Implemented,Subnational,Newfoundland and Labrador,North America,2019,0,4.5881,8.47E-05,N/A,0,N/A,
+Newfoundland and Labrador carbon tax,Carbon tax,Implemented,Subnational,Newfoundland and Labrador,North America,2019,0,5.0149,9.26E-05,0.040742594,0.064347519,N/A,
+Northwest Territories carbon tax,Carbon tax,Implemented,Subnational,Northwest Territories,North America,2019,0,1.3351,2.46E-05,0.004911223,0.018384894,N/A,
+Norway carbon tax,Carbon tax,Implemented,National,Norway,Europe and Central Asia,1991,0,46.53871698,0.000859039,1.374222843,1.45477404,EU ETS,13.85302475
+Nova Scotia CaT,ETS,Implemented,Subnational,Nova Scotia,North America,2019,0,13.2,0.000243653,0,0,N/A,
+Ontario ETS,ETS,Under consideration,Subnational,Ontario,North America,TBC,0,N/A,N/A,N/A,0,N/A,
+Oregon ETS,ETS,Under consideration,Subnational,Oregon,North America,TBC,0,N/A,N/A,N/A,0,N/A,
+Pennsylvania ETS,ETS,Under consideration,Subnational,Pennsylvania,North America,TBC,0,N/A,N/A,N/A,0,N/A,
+Poland carbon tax,Carbon tax,Implemented,National,Poland,Europe and Central Asia,1990,0,16.09196123,0.000297035,0.001117735,0.001117735,N/A,
+Portugal carbon tax,Carbon tax,Implemented,National,Portugal,Europe and Central Asia,2015,0,23.30616041,0.000430199,0.280683295,0.520365678,N/A,
+Prince Edward Island carbon tax,Carbon tax,Implemented,Subnational,Prince Edward Island,North America,2019,0,0.7612,1.41E-05,0.006611626,0.012121315,N/A,
+Quebec CaT,ETS,Implemented,Subnational,Quebec,North America,2013,0,66.385,0.001225374,0.968659794,0.837522,N/A,
+RGGI,ETS,Implemented,Subnational,RGGI,North America,2009,0,108.112356,0.001995602,0.283989049,0.448362,Massachusetts ETS,14.92863028
+Rio de Janeiro ETS,ETS,Under consideration,Subnational,Rio de Janeiro,Latin America and the Caribbean  ,TBC,0,N/A,N/A,N/A,0,N/A,
+Saitama ETS,ETS,Implemented,Subnational,Saitama,East Asia & Pacific ,2011,0,7.344,0.00013556,N/A,0.006587145,Japan carbon tax,7.344
+Sao Paolo ETS,ETS,Under consideration,Subnational,Sao Paolo,Latin America and the Caribbean  ,TBC,0,N/A,N/A,N/A,0,N/A,
+Saskatchewan OBPS,ETS,Implemented,Subnational,Saskatchewan,North America,2019,0,9.444,0.000174323,N/A,0,N/A,
+Senegal carbon tax,Carbon tax,Under consideration,National,Senegal,Sub-Saharan Africa,TBC,0,N/A,N/A,N/A,0,N/A,
+Shanghai pilot ETS,ETS,Implemented,Subnational,Shanghai,East Asia & Pacific ,2013,0,169.689,0.003132221,0.000495489,0.80088684,China national ETS,59.39115
+Shenzhen pilot ETS,ETS,Implemented,Subnational,Shenzhen,East Asia & Pacific ,2013,0,61.2,0.001129666,0,0.074993739,China national ETS,21.42
+Singapore carbon tax,Carbon tax,Implemented,National,Singapore,East Asia & Pacific ,2019,0,44.7824,0.00082662,0,0.134295162,N/A,
+Slovenia carbon tax,Carbon tax,Implemented,National,Slovenia,Europe and Central Asia,1996,0,4.990089748,9.21E-05,0.080870257,0.080870257,N/A,0
+South Africa carbon tax,Carbon tax,Implemented,National,South Africa,Sub-Saharan Africa,2019,0,512.248,0.009455379,0,0.097281635,N/A,
+Spain carbon tax,Carbon tax,Implemented,National,Spain,Europe and Central Asia,2014,0,9.224028017,0.000170263,0.120296034,0.120296034,N/A,
+Sweden carbon tax,Carbon tax,Implemented,National,Sweden,Europe and Central Asia,1991,0,44.20663627,0.000815992,2.314347421,2.295169193,EU ETS,0
+Switzerland ETS,ETS,Implemented,National,Switzerland,Europe and Central Asia,2008,0,6.04153,0.000111518,0.008865625,0.116563086,N/A,
+Switzerland carbon tax,Carbon tax,Implemented,National,Switzerland,Europe and Central Asia,2008,0,18.24572461,0.00033679,1.234721394,1.214004592,N/A,
+TCI ETS,ETS,Under consideration,Subnational,TCI,North America,TBC,0,N/A,N/A,N/A,0,N/A,
+Taiwan ETS,ETS,Under consideration,Subnational,Taiwan,East Asia & Pacific ,TBC,0,N/A,N/A,N/A,0,N/A,
+Tamaulipas carbon tax,Carbon tax,Scheduled,Subnational,Tamaulipas,Latin America and the Caribbean  ,2021,0,N/A,N/A,N/A,0,N/A,
+Thailand ETS,ETS,Under consideration,National,Thailand,East Asia & Pacific ,TBC,0,N/A,N/A,N/A,0,N/A,
+Tianjin pilot ETS,ETS,Implemented,Subnational,Tianjin,East Asia & Pacific ,2013,0,118.25,0.002182729,0,0.464520504,China national ETS,41.3875
+Tokyo CaT,ETS,Implemented,Subnational,Tokyo,East Asia & Pacific ,2010,0,13.26,0.000244761,N/A,0.010150587,Japan carbon tax,13.26
+Turkey ETS,ETS,Under consideration,National,Turkey,Europe and Central Asia,TBC,0,N/A,N/A,N/A,0,N/A,
+UK carbon price floor,Carbon tax,Implemented,National,United Kingdom,Europe and Central Asia,2013,0,135.8265901,0.002507168,1.098106128,0.85218852,EU ETS,135.8265901
+Ukraine ETS,ETS,Under consideration,National,Ukraine,Europe and Central Asia,TBC,0,N/A,N/A,N/A,0,N/A,
+Ukraine carbon tax,Carbon tax,Implemented,National,Ukraine,Europe and Central Asia,2011,0,221.221332,0.004083435,0.047692308,0.047692308,N/A,
+United Kingdom undecided,Undecided,Under consideration,National,United Kingdom,Europe and Central Asia,TBC,0,N/A,N/A,N/A,0,N/A,
+Vietnam ETS,ETS,Under consideration,National,Vietnam,East Asia & Pacific ,TBC,0,N/A,N/A,N/A,0,N/A,
+Virginia ETS,ETS,Scheduled,Subnational,Virginia,North America,2020,0,30.70694404,0.000566807,N/A,0,N/A,
+Washington CAR,ETS,Implemented,Subnational,Washington,North America,2017,0,64.93333333,0.001198578,N/A,0,N/A,
+Zacatecas carbon tax,Carbon tax,Implemented,Subnational,Zacatecas,Latin America and the Caribbean  ,2017,0,N/A,N/A,N/A,0,N/A,
